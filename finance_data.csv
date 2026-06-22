@@ -1,3 +1,27 @@
 date,amount,category,description
 03-03-3030,125.65,Income,Salary
 18-06-2026,125.0,Income,Side
+30-07-2024,255.0,Expense,
+22-06-2026,1.0,Income,
+20-03-2029,123.0,Income,
+15-01-2025,42.75,Expense,Coffee
+08-02-2025,89.99,Expense,Groceries
+19-02-2025,250.0,Income,Freelance
+27-03-2025,15.5,Expense,Lunch
+10-04-2025,1200.0,Income,Bonus
+25-04-2025,64.2,Expense,Gas
+14-05-2025,799.99,Expense,Laptop Repair
+01-06-2025,500.0,Income,Gift
+17-06-2025,32.45,Expense,Movie
+09-07-2025,145.8,Expense,Utilities
+30-08-2025,3000.0,Income,Salary
+12-09-2025,19.99,Expense,Streaming
+05-10-2025,75.0,Expense,Restaurant
+18-11-2025,215.4,Expense,Shopping
+24-12-2025,1000.0,Income,Holiday Bonus
+02-01-2026,950.0,Expense,Rent
+15-02-2026,180.0,Income,Tutoring
+28-03-2026,58.75,Expense,Books
+11-04-2026,450.0,Income,Refund
+19-05-2026,27.35,Expense,Snacks
+21-06-2026,3100.0,Income,Salary
